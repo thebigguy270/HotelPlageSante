@@ -1,0 +1,100 @@
+C:\Users\olivi\OneDrive - Cegep Gerald-Godin\Bases de données III\Projets\Projet 1\Projet1\Projet1\bin\Debug\Projet1.exe.config
+C:\Users\olivi\OneDrive - Cegep Gerald-Godin\Bases de données III\Projets\Projet 1\Projet1\Projet1\bin\Debug\Projet1.exe
+C:\Users\olivi\OneDrive - Cegep Gerald-Godin\Bases de données III\Projets\Projet 1\Projet1\Projet1\bin\Debug\Projet1.pdb
+C:\Users\olivi\OneDrive - Cegep Gerald-Godin\Bases de données III\Projets\Projet 1\Projet1\Projet1\obj\Debug\Projet1.csprojAssemblyReference.cache
+C:\Users\olivi\OneDrive - Cegep Gerald-Godin\Bases de données III\Projets\Projet 1\Projet1\Projet1\obj\Debug\Projet1.FrmConnexion.resources
+C:\Users\olivi\OneDrive - Cegep Gerald-Godin\Bases de données III\Projets\Projet 1\Projet1\Projet1\obj\Debug\Projet1.FrmMenuAdmin.resources
+C:\Users\olivi\OneDrive - Cegep Gerald-Godin\Bases de données III\Projets\Projet 1\Projet1\Projet1\obj\Debug\Projet1.FrmMenuPrepose.resources
+C:\Users\olivi\OneDrive - Cegep Gerald-Godin\Bases de données III\Projets\Projet 1\Projet1\Projet1\obj\Debug\Projet1.Properties.Resources.resources
+C:\Users\olivi\OneDrive - Cegep Gerald-Godin\Bases de données III\Projets\Projet 1\Projet1\Projet1\obj\Debug\Projet1.csproj.GenerateResource.cache
+C:\Users\olivi\OneDrive - Cegep Gerald-Godin\Bases de données III\Projets\Projet 1\Projet1\Projet1\obj\Debug\Projet1.csproj.CoreCompileInputs.cache
+C:\Users\olivi\OneDrive - Cegep Gerald-Godin\Bases de données III\Projets\Projet 1\Projet1\Projet1\obj\Debug\Projet1.exe
+C:\Users\olivi\OneDrive - Cegep Gerald-Godin\Bases de données III\Projets\Projet 1\Projet1\Projet1\obj\Debug\Projet1.pdb
+L:\Bases de données III\Projet 1\Projet1\Projet1\bin\Debug\Projet1.exe.config
+L:\Bases de données III\Projet 1\Projet1\Projet1\bin\Debug\Projet1.exe
+L:\Bases de données III\Projet 1\Projet1\Projet1\bin\Debug\Projet1.pdb
+L:\Bases de données III\Projet 1\Projet1\Projet1\obj\Debug\Projet1.csprojAssemblyReference.cache
+L:\Bases de données III\Projet 1\Projet1\Projet1\obj\Debug\Projet1.FrmConnexion.resources
+L:\Bases de données III\Projet 1\Projet1\Projet1\obj\Debug\Projet1.FrmGestionAssistantsEtSoins.resources
+L:\Bases de données III\Projet 1\Projet1\Projet1\obj\Debug\Projet1.FrmMenuAdmin.resources
+L:\Bases de données III\Projet 1\Projet1\Projet1\obj\Debug\Projet1.FrmMenuPrepose.resources
+L:\Bases de données III\Projet 1\Projet1\Projet1\obj\Debug\Projet1.FrmPlanificationSoins.resources
+L:\Bases de données III\Projet 1\Projet1\Projet1\obj\Debug\Projet1.Properties.Resources.resources
+L:\Bases de données III\Projet 1\Projet1\Projet1\obj\Debug\Projet1.csproj.GenerateResource.cache
+L:\Bases de données III\Projet 1\Projet1\Projet1\obj\Debug\Projet1.csproj.CoreCompileInputs.cache
+L:\Bases de données III\Projet 1\Projet1\Projet1\obj\Debug\Projet1.exe
+L:\Bases de données III\Projet 1\Projet1\Projet1\obj\Debug\Projet1.pdb
+L:\Bases de données III\Projet 1\Projet1\Projet1\obj\Debug\Projet1.frmAjouterAssistant.resources
+C:\Users\Marc-Antoine\OneDrive\Bases de données III\Projet 1\Projet1\Projet1\bin\Debug\Projet1.exe.config
+C:\Users\Marc-Antoine\OneDrive\Bases de données III\Projet 1\Projet1\Projet1\bin\Debug\Projet1.exe
+C:\Users\Marc-Antoine\OneDrive\Bases de données III\Projet 1\Projet1\Projet1\bin\Debug\Projet1.pdb
+C:\Users\Marc-Antoine\OneDrive\Bases de données III\Projet 1\Projet1\Projet1\obj\Debug\Projet1.csprojAssemblyReference.cache
+C:\Users\Marc-Antoine\OneDrive\Bases de données III\Projet 1\Projet1\Projet1\obj\Debug\Projet1.frmAjouterAssistant.resources
+C:\Users\Marc-Antoine\OneDrive\Bases de données III\Projet 1\Projet1\Projet1\obj\Debug\Projet1.FrmConnexion.resources
+C:\Users\Marc-Antoine\OneDrive\Bases de données III\Projet 1\Projet1\Projet1\obj\Debug\Projet1.FrmGestionAssistantsEtSoins.resources
+C:\Users\Marc-Antoine\OneDrive\Bases de données III\Projet 1\Projet1\Projet1\obj\Debug\Projet1.FrmMenuAdmin.resources
+C:\Users\Marc-Antoine\OneDrive\Bases de données III\Projet 1\Projet1\Projet1\obj\Debug\Projet1.FrmMenuPrepose.resources
+C:\Users\Marc-Antoine\OneDrive\Bases de données III\Projet 1\Projet1\Projet1\obj\Debug\Projet1.FrmPlanificationSoins.resources
+C:\Users\Marc-Antoine\OneDrive\Bases de données III\Projet 1\Projet1\Projet1\obj\Debug\Projet1.Properties.Resources.resources
+C:\Users\Marc-Antoine\OneDrive\Bases de données III\Projet 1\Projet1\Projet1\obj\Debug\Projet1.csproj.GenerateResource.cache
+C:\Users\Marc-Antoine\OneDrive\Bases de données III\Projet 1\Projet1\Projet1\obj\Debug\Projet1.csproj.CoreCompileInputs.cache
+C:\Users\Marc-Antoine\OneDrive\Bases de données III\Projet 1\Projet1\Projet1\obj\Debug\Projet1.exe
+C:\Users\Marc-Antoine\OneDrive\Bases de données III\Projet 1\Projet1\Projet1\obj\Debug\Projet1.pdb
+C:\Users\Marc-Antoine\OneDrive\Bases de données III\Projet 1\Projet1\Projet1\obj\Debug\Projet1.frmAjouterSoin.resources
+L:\Bases de données III\Projet 1\Projet1\Projet1\obj\Debug\Projet1.frmAjouterSoin.resources
+L:\Bases de données III\Proj1\Projet1\Projet1\bin\Debug\Projet1.exe.config
+L:\Bases de données III\Proj1\Projet1\Projet1\bin\Debug\Projet1.exe
+L:\Bases de données III\Proj1\Projet1\Projet1\bin\Debug\Projet1.pdb
+L:\Bases de données III\Proj1\Projet1\Projet1\obj\Debug\Projet1.csprojAssemblyReference.cache
+L:\Bases de données III\Proj1\Projet1\Projet1\obj\Debug\Projet1.frmAjouterAssistant.resources
+L:\Bases de données III\Proj1\Projet1\Projet1\obj\Debug\Projet1.FrmConnexion.resources
+L:\Bases de données III\Proj1\Projet1\Projet1\obj\Debug\Projet1.FrmGestionAssistantsEtSoins.resources
+L:\Bases de données III\Proj1\Projet1\Projet1\obj\Debug\Projet1.FrmMenuAdmin.resources
+L:\Bases de données III\Proj1\Projet1\Projet1\obj\Debug\Projet1.FrmMenuPrepose.resources
+L:\Bases de données III\Proj1\Projet1\Projet1\obj\Debug\Projet1.FrmPlanificationSoins.resources
+L:\Bases de données III\Proj1\Projet1\Projet1\obj\Debug\Projet1.Properties.Resources.resources
+L:\Bases de données III\Proj1\Projet1\Projet1\obj\Debug\Projet1.csproj.GenerateResource.cache
+L:\Bases de données III\Proj1\Projet1\Projet1\obj\Debug\Projet1.csproj.CoreCompileInputs.cache
+L:\Bases de données III\Proj1\Projet1\Projet1\obj\Debug\Projet1.exe
+L:\Bases de données III\Proj1\Projet1\Projet1\obj\Debug\Projet1.pdb
+C:\Users\Marc-Antoine\OneDrive\Bases de données III\Proj1\Projet1\Projet1\bin\Debug\Projet1.exe.config
+C:\Users\Marc-Antoine\OneDrive\Bases de données III\Proj1\Projet1\Projet1\bin\Debug\Projet1.exe
+C:\Users\Marc-Antoine\OneDrive\Bases de données III\Proj1\Projet1\Projet1\bin\Debug\Projet1.pdb
+C:\Users\Marc-Antoine\OneDrive\Bases de données III\Proj1\Projet1\Projet1\obj\Debug\Projet1.csprojAssemblyReference.cache
+C:\Users\Marc-Antoine\OneDrive\Bases de données III\Proj1\Projet1\Projet1\obj\Debug\Projet1.frmAjouterAssistant.resources
+C:\Users\Marc-Antoine\OneDrive\Bases de données III\Proj1\Projet1\Projet1\obj\Debug\Projet1.FrmConnexion.resources
+C:\Users\Marc-Antoine\OneDrive\Bases de données III\Proj1\Projet1\Projet1\obj\Debug\Projet1.FrmGestionAssistantsEtSoins.resources
+C:\Users\Marc-Antoine\OneDrive\Bases de données III\Proj1\Projet1\Projet1\obj\Debug\Projet1.FrmGestionChambresEtTypesChambres.resources
+C:\Users\Marc-Antoine\OneDrive\Bases de données III\Proj1\Projet1\Projet1\obj\Debug\Projet1.FrmMenuAdmin.resources
+C:\Users\Marc-Antoine\OneDrive\Bases de données III\Proj1\Projet1\Projet1\obj\Debug\Projet1.FrmMenuPrepose.resources
+C:\Users\Marc-Antoine\OneDrive\Bases de données III\Proj1\Projet1\Projet1\obj\Debug\Projet1.FrmPlanificationSoins.resources
+C:\Users\Marc-Antoine\OneDrive\Bases de données III\Proj1\Projet1\Projet1\obj\Debug\Projet1.Properties.Resources.resources
+C:\Users\Marc-Antoine\OneDrive\Bases de données III\Proj1\Projet1\Projet1\obj\Debug\Projet1.csproj.GenerateResource.cache
+C:\Users\Marc-Antoine\OneDrive\Bases de données III\Proj1\Projet1\Projet1\obj\Debug\Projet1.csproj.CoreCompileInputs.cache
+C:\Users\Marc-Antoine\OneDrive\Bases de données III\Proj1\Projet1\Projet1\obj\Debug\Projet1.exe
+C:\Users\Marc-Antoine\OneDrive\Bases de données III\Proj1\Projet1\Projet1\obj\Debug\Projet1.pdb
+L:\Bases de données III\Proj1\Projet1\Projet1\obj\Debug\Projet1.FrmGestionChambresEtTypesChambres.resources
+L:\Bases de données III\Proj1\Projet1\Projet1\obj\Debug\Projet1.FrmReservationChambres.resources
+L:\Bases de données III\Proj1\Projet1\Projet1\obj\Debug\Projet1.frmAjouterChambre.resources
+L:\Bases de données III\Proj1\Projet1\Projet1\obj\Debug\Projet1.FrmVisualisationRapports.resources
+L:\Bases de données III\Proj1\Projet1\Projet1\obj\Debug\Projet1.FrmGestionClientsEtInvites.resources
+L:\Bases de données III\Proj1\Projet1\Projet1\obj\Debug\Projet1.frmAjouterSoinPourAssistant.resources
+L:\Bases de données III\Proj1\Projet1\Projet1\obj\Debug\Projet1.FrmGestionSoins.resources
+C:\Users\Marc-Antoine\OneDrive\Bases de données III\Proj1\Projet1\Projet1\obj\Debug\Projet1.frmAjouterChambre.resources
+C:\Users\Marc-Antoine\OneDrive\Bases de données III\Proj1\Projet1\Projet1\obj\Debug\Projet1.frmAjouterSoinPourAssistant.resources
+C:\Users\Marc-Antoine\OneDrive\Bases de données III\Proj1\Projet1\Projet1\obj\Debug\Projet1.FrmGestionClientsEtInvites.resources
+C:\Users\Marc-Antoine\OneDrive\Bases de données III\Proj1\Projet1\Projet1\obj\Debug\Projet1.FrmGestionSoins.resources
+C:\Users\Marc-Antoine\OneDrive\Bases de données III\Proj1\Projet1\Projet1\obj\Debug\Projet1.FrmReservationChambres.resources
+C:\Users\Marc-Antoine\OneDrive\Bases de données III\Proj1\Projet1\Projet1\obj\Debug\Projet1.FrmVisualisationRapports.resources
+C:\Users\Marc-Antoine\OneDrive\Bases de données III\Proj1\Projet1\Projet1\obj\Debug\Projet1.frmAjouterSoin.resources
+C:\Users\Marc-Antoine\OneDrive\Bases de données III\Proj1\Projet1\Projet1\obj\Debug\Projet1.FrmGestionUtilisateur.resources
+C:\Users\Marc-Antoine\OneDrive\Bases de données III\Proj1\Projet1\Projet1\obj\Debug\Projet1.frmAjouterUtilisateur.resources
+C:\Users\Marc-Antoine\OneDrive\Bases de données III\Proj1\Projet1\Projet1\obj\Debug\Projet1.frmAjouterTypeDeChambre.resources
+L:\Bases de données III\Proj1\Projet1\Projet1\obj\Debug\Projet1.frmAjouterSoin.resources
+L:\Bases de données III\Proj1\Projet1\Projet1\obj\Debug\Projet1.frmAjouterTypeDeChambre.resources
+L:\Bases de données III\Proj1\Projet1\Projet1\obj\Debug\Projet1.frmAjouterUtilisateur.resources
+L:\Bases de données III\Proj1\Projet1\Projet1\obj\Debug\Projet1.FrmGestionUtilisateur.resources
+L:\Bases de données III\Proj1\Projet1\Projet1\obj\Debug\Projet1.frmAjouterClient.resources
+C:\Users\Marc-Antoine\OneDrive\Bases de données III\Proj1\Projet1\Projet1\obj\Debug\Projet1.frmAjouterClient.resources
+C:\Users\Marc-Antoine\OneDrive\Bases de données III\Proj1\Projet1\Projet1\obj\Debug\Projet1.frmAjouterInvite.resources
+L:\Bases de données III\Proj1\Projet1\Projet1\obj\Debug\Projet1.frmAjouterInvite.resources

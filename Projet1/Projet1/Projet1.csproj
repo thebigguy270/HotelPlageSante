@@ -1,0 +1,264 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{9A77DD2C-5B3A-48D6-BA42-ADDFA6F562D6}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>Projet1</RootNamespace>
+    <AssemblyName>Projet1</AssemblyName>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="BD5B6TP1_BrodeurLussierDataSet.cs">
+      <DependentUpon>BD5B6TP1_BrodeurLussierDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="BD5B6TP1_BrodeurLussierDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>BD5B6TP1_BrodeurLussierDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="frmAjouterAssistant.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmAjouterAssistant.Designer.cs">
+      <DependentUpon>frmAjouterAssistant.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmAjouterChambre.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmAjouterChambre.Designer.cs">
+      <DependentUpon>frmAjouterChambre.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmAjouterClient.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmAjouterClient.Designer.cs">
+      <DependentUpon>frmAjouterClient.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmAjouterInvite.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmAjouterInvite.Designer.cs">
+      <DependentUpon>frmAjouterInvite.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmAjouterSoin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmAjouterSoin.Designer.cs">
+      <DependentUpon>frmAjouterSoin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmAjouterSoinPourAssistant.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmAjouterSoinPourAssistant.Designer.cs">
+      <DependentUpon>frmAjouterSoinPourAssistant.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmAjouterTypeDeChambre.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmAjouterTypeDeChambre.Designer.cs">
+      <DependentUpon>frmAjouterTypeDeChambre.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmAjouterUtilisateur.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmAjouterUtilisateur.Designer.cs">
+      <DependentUpon>frmAjouterUtilisateur.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmConnexion.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmConnexion.Designer.cs">
+      <DependentUpon>FrmConnexion.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmGestionAssistantsEtSoins.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmGestionAssistantsEtSoins.Designer.cs">
+      <DependentUpon>FrmGestionAssistantsEtSoins.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmGestionChambresEtTypesChambres.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmGestionChambresEtTypesChambres.Designer.cs">
+      <DependentUpon>FrmGestionChambresEtTypesChambres.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmGestionClientsEtInvites.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmGestionClientsEtInvites.Designer.cs">
+      <DependentUpon>FrmGestionClientsEtInvites.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmGestionSoins.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmGestionSoins.Designer.cs">
+      <DependentUpon>FrmGestionSoins.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmGestionUtilisateur.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmGestionUtilisateur.Designer.cs">
+      <DependentUpon>FrmGestionUtilisateur.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmMenuAdmin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmMenuAdmin.Designer.cs">
+      <DependentUpon>FrmMenuAdmin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmMenuPrepose.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmMenuPrepose.Designer.cs">
+      <DependentUpon>FrmMenuPrepose.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmPlanificationSoins.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmPlanificationSoins.Designer.cs">
+      <DependentUpon>FrmPlanificationSoins.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmReservationChambres.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmReservationChambres.Designer.cs">
+      <DependentUpon>FrmReservationChambres.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmVisualisationRapports.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmVisualisationRapports.Designer.cs">
+      <DependentUpon>FrmVisualisationRapports.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="frmAjouterAssistant.resx">
+      <DependentUpon>frmAjouterAssistant.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmAjouterChambre.resx">
+      <DependentUpon>frmAjouterChambre.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmAjouterClient.resx">
+      <DependentUpon>frmAjouterClient.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmAjouterInvite.resx">
+      <DependentUpon>frmAjouterInvite.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmAjouterSoin.resx">
+      <DependentUpon>frmAjouterSoin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmAjouterSoinPourAssistant.resx">
+      <DependentUpon>frmAjouterSoinPourAssistant.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmAjouterTypeDeChambre.resx">
+      <DependentUpon>frmAjouterTypeDeChambre.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmAjouterUtilisateur.resx">
+      <DependentUpon>frmAjouterUtilisateur.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmConnexion.resx">
+      <DependentUpon>FrmConnexion.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmGestionAssistantsEtSoins.resx">
+      <DependentUpon>FrmGestionAssistantsEtSoins.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmGestionChambresEtTypesChambres.resx">
+      <DependentUpon>FrmGestionChambresEtTypesChambres.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmGestionClientsEtInvites.resx">
+      <DependentUpon>FrmGestionClientsEtInvites.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmGestionSoins.resx">
+      <DependentUpon>FrmGestionSoins.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmGestionUtilisateur.resx">
+      <DependentUpon>FrmGestionUtilisateur.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmMenuAdmin.resx">
+      <DependentUpon>FrmMenuAdmin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmMenuPrepose.resx">
+      <DependentUpon>FrmMenuPrepose.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmPlanificationSoins.resx">
+      <DependentUpon>FrmPlanificationSoins.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmReservationChambres.resx">
+      <DependentUpon>FrmReservationChambres.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmVisualisationRapports.resx">
+      <DependentUpon>FrmVisualisationRapports.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <None Include="BD5B6TP1_BrodeurLussierDataSet.xsc">
+      <DependentUpon>BD5B6TP1_BrodeurLussierDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="BD5B6TP1_BrodeurLussierDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>BD5B6TP1_BrodeurLussierDataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="BD5B6TP1_BrodeurLussierDataSet.xss">
+      <DependentUpon>BD5B6TP1_BrodeurLussierDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
